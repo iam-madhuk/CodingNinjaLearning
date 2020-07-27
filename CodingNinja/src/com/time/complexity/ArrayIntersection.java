@@ -28,7 +28,7 @@ public class ArrayIntersection {
 		int[] arr2 = takeInput();
 		ArrayIntersection.intersection(arr1, arr2);
 	}
-
+ 
 	private static void intersection(int[] arr1, int[] arr2) {
 
 		ArrayList<Integer> list = new ArrayList<Integer>();
