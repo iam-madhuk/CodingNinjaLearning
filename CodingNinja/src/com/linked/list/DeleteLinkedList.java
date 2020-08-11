@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class DeleteLinkedList {
+
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 	public static LinkedListNode<Integer> takeInput() throws IOException {
